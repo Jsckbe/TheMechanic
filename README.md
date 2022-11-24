@@ -9,3 +9,5 @@ los archivos usados para la elaboración de esta misma.
 
 /*La carpeta Repos1 son las primeras versiones, por lo que se recomienda dar mayor 
 importancia a la otra carpeta TheMechanic*/
+
+[![1-inicio.png](https://i.postimg.cc/fLPD3crW/1-inicio.png)](https://postimg.cc/njq6gDxN)
